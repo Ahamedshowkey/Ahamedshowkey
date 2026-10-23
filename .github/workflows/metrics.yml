@@ -23,49 +23,212 @@ jobs:
           user: ${{ github.repository_owner }}
           template: classic
           
-          # Base sections
-          base: header, activity, community, repositories
-          
-          # Appearance
+          # ==========================================
+          # APPEARANCE & GENERAL SETTINGS
+          # ==========================================
           config_timezone: Asia/Colombo
           config_display: large
           config_theme: github_dark
-          config_order: base.header, isocalendar, languages, habits, stars, topics, followup, lines, base.activity+community, base.repositories
+          config_output: svg
+
+          # ==========================================
+          # CORE PLUGINS (Base sections)
+          # ==========================================
+          base: header, activity, community, repositories, metadata
           
-          # Languages
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 15
+          # ==========================================
+          # GITHUB PLUGINS
+          # ==========================================
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: X
           
-          # Isometric contribution calendar
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: issue, pr, release, fork, review
           
-          # Coding habits
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          
+          plugin_code: yes
+          plugin_code_lines: 12
+          plugin_code_load: 400
+          plugin_code_visibility: public
+          
+          plugin_contributors: yes
+          plugin_contributors_sections: contributors
+          plugin_contributors_categories: false
+          
+          plugin_discussions: yes
+          plugin_discussions_categories: yes
+          
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          
+          plugin_gists: yes
+          
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           
-          # Starred topics / stars
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+          
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_indepth: yes
+          
+          plugin_licenses: yes
+          plugin_licenses_setup: npm ci
+          plugin_licenses_legal: yes
+          
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_sections: base, repositories
+          
+          plugin_notable: yes
+          plugin_notable_from: all
+          
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          
+          plugin_projects: yes
+          plugin_projects_limit: 4
+          
+          plugin_reactions: yes
+          plugin_reactions_limit: 200
+          plugin_reactions_days: 14
+          plugin_reactions_details: percentage
+          
+          plugin_repositories: yes
+          plugin_repositories_featured: lowlighter/metrics
+          plugin_repositories_pinned: 2
+          
+          plugin_skyline: yes
+          plugin_skyline_year: current-year
+          plugin_skyline_frames: 6
+          plugin_skyline_quality: 0.5
+          
+          plugin_sponsors: yes
+          plugin_sponsors_sections: goal, list, about
+          
+          plugin_sponsorships: yes
+          plugin_sponsorships_sections: amount, list
+          
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: chartist
+          
+          plugin_starlists: yes
+          plugin_starlists_limit: 2
+          plugin_starlists_limit_repositories: 2
+          
           plugin_stars: yes
           plugin_stars_limit: 4
           
-          # Topics you contribute to
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
           plugin_topics_sort: stars
           
-          # Follow-up (issues/PRs you opened)
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
-          
-          # Lines of code
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_sections: base, repositories
+          plugin_traffic: yes
+
+          # ==========================================
+          # SOCIAL PLUGINS (Require external setup!)
+          # ==========================================
+          # 🚨 ANILIST (Requires username)
+          plugin_anilist: yes
+          plugin_anilist_user: YOUR_ANILIST_USERNAME
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: favorites, characters
+          plugin_anilist_limit: 2
+          plugin_anilist_limit_characters: 22
+
+          # 🚨 LEETCODE (Requires username)
+          plugin_leetcode: yes
+          plugin_leetcode_user: YOUR_LEETCODE_USERNAME
+          plugin_leetcode_sections: solved, skills, recent
+
+          # 🚨 MUSIC (Requires Spotify API setup)
+          # plugin_music: yes
+          # plugin_music_provider: spotify
+          # plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
+          # plugin_music_mode: recent
+
+          # 🚨 PAGESPEED (Requires Google PageSpeed API Key)
+          # plugin_pagespeed: yes
+          # plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          # plugin_pagespeed_url: https://your-website.com
+          # plugin_pagespeed_detailed: yes
+
+          # 🚨 POSTS (Requires an RSS feed URL)
+          # plugin_posts: yes
+          # plugin_posts_source: YOUR_RSS_FEED_URL
+          # plugin_posts_limit: 4
+
+          # 🚨 RSS (Requires an RSS feed URL)
+          # plugin_rss: yes
+          # plugin_rss_source: YOUR_RSS_FEED_URL
+          # plugin_rss_limit: 4
+
+          # 🚨 STACKOVERFLOW (Requires StackExchange API Key)
+          # plugin_stackoverflow: yes
+          # plugin_stackoverflow_user: YOUR_STACKOVERFLOW_ID
+          # plugin_stackoverflow_token: ${{ secrets.STACKOVERFLOW_TOKEN }}
+          # plugin_stackoverflow_sections: answers-top, questions-recent
+          # plugin_stackoverflow_limit: 2
+
+          # 🚨 STEAM (Requires Steam API Key and ID)
+          # plugin_steam: yes
+          # plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          # plugin_steam_user: YOUR_STEAM_ID
+          # plugin_steam_sections: player, most-played
+
+          # 🚨 WAKATIME (Requires WakaTime API Key)
+          # plugin_wakatime: yes
+          # plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          # plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          # plugin_wakatime_limit: 4
+
+          # ==========================================
+          # COMMUNITY PLUGINS
+          # ==========================================
+          plugin_16personalities: yes
+          plugin_16personalities_url: YOUR_16PERSONALITIES_URL
+          plugin_16personalities_sections: personality, profile, traits
+          plugin_16personalities_scores: yes
+
+          plugin_chess: yes
+          plugin_chess_platform: chess.com
+          plugin_chess_user: YOUR_CHESS_USERNAME
+
+          plugin_crypto: yes
+          plugin_crypto_wallet: YOUR_WALLET_ADDRESS
+
+          plugin_fortune: yes
+
+          plugin_nightscout: yes
+          plugin_nightscout_url: YOUR_NIGHTSCOUT_URL
+
+          plugin_poopmap: yes
+          plugin_poopmap_token: YOUR_POOPMAP_TOKEN
+
+          plugin_screenshot: yes
+          plugin_screenshot_url: YOUR_WEBSITE_URL
+
+          plugin_splatoon: yes
+          plugin_splatoon_token: ${{ secrets.SPLATOON_TOKEN }}
+
+          plugin_stock: yes
+          plugin_stock_token: ${{ secrets.STOCK_TOKEN }}
+          plugin_stock_symbol: AAPL
