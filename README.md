@@ -1,18 +1,26 @@
+# 👋 Hi, I'm Ahamed Sowkey
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahamed+%F0%9F%91%8B;IT+Undergraduate+%7C+Full-Stack+Developer;MERN+%7C+Kotlin+Android+%7C+AI%2FML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full-Stack+Developer;MERN+Stack+Developer;Android+App+Developer+%7C+Kotlin;AI+%2F+ML+Enthusiast;Building+Practical+Software+Solutions" alt="Typing SVG" />
 
-<br/>
+  <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ahamedshowkey&label=Profile+Views&color=2f81f7&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Ahamedshowkey?label=Followers&style=flat-square&color=2f81f7)
-![Repos](https://img.shields.io/github/search/Ahamedshowkey/Ahamedshowkey?style=flat-square&color=2f81f7&label=Status&query=)
-![Location](https://img.shields.io/badge/Location-Colombo%2C%20Sri%20Lanka-2f81f7?style=flat-square&logo=googlemaps&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open%20to-Work%20%26%20Collaboration-2ea44f?style=flat-square)
+  <a href="https://github.com/Ahamedshowkey">
+    <img src="https://komarev.com/ghpvc/?username=Ahamedshowkey&label=PROFILE%20VIEWS&color=2F81F7&style=for-the-badge" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/Ahamedshowkey?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ahamedshowkey?label=FOLLOWERS&style=for-the-badge&color=2F81F7" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/Ahamedshowkey?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Explore repositories"/>
+  </a>
 
-<br/>
+  <br/><br/>
 
-[Portfolio](https://ahamedshowkey.github.io) • [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) • [Email](mailto:sowkey2mail@gmail.com)
+  **Turning ideas into functional, user-focused software.**
+
+  [Explore My Projects](https://github.com/Ahamedshowkey?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/) · [Email Me](mailto:sowkey2mail@gmail.com)
 
 </div>
 
@@ -20,158 +28,178 @@
 
 ## 👨‍💻 About Me
 
-I'm an Information Technology undergraduate at **SLIIT** who builds complete products, from the database and API to the web and mobile front ends. I enjoy turning real business problems into reliable, clean software, and I'm growing toward AI/ML and cloud-based systems.
+I'm a software developer from Sri Lanka with a background in Information Technology and hands-on experience building web applications, Android applications, and practical software solutions.
 
-- 🎓 IT student at **SLIIT** (Sri Lanka Institute of Information Technology), graduating 2026
-- 💼 Software engineering internship completed in early 2025
-- 🔭 **Currently working on:** A full-stack MERN application and an Android app
-- 🌱 **Currently learning:** Advanced React patterns and Machine Learning models
-- 🧠 **Interests:** AI/ML, Cloud Computing, and Mobile App Development
-- 🛠️ **Philosophy:** I learn by building. Coursework and hands-on projects go side by side
-- ⚡ **Fun fact:** When I'm not coding, you can find me exploring new tech gadgets
-- 📫 **Reach me:** **sowkey2mail@gmail.com**
+I enjoy solving real-world problems through clean code, thoughtful design, and continuous learning.
 
----
-
-## 💡 What I Do
-
-| Area | What I build |
-|------|--------------|
-| 🌐 **Full-Stack Web** | REST APIs, authentication, dashboards, and responsive React front ends on the MERN stack |
-| 📱 **Android Development** | Native Kotlin apps with clean architecture and Firebase integration |
-| 🤖 **AI / ML** | Model experiments and data-driven features in Python |
-| 🗄️ **Databases** | Schema design and querying in MongoDB and SQL |
-| 🔧 **IT & Systems** | Troubleshooting, Linux environments, version control workflows, and deployment basics |
+- 🎓 **Education:** BSc (Hons) in Information Technology, SLIIT — studies completed; degree completion pending final academic requirements.
+- 💼 **Experience:** Completed a Software Engineer Internship at Gamage Recruiters (PVT) LTD in 2025.
+- 🌐 **Web Development:** Building full-stack applications using MongoDB, Express.js, React, and Node.js.
+- 📱 **Mobile Development:** Developing Android applications with Kotlin and Firebase.
+- 🤖 **AI / ML:** Exploring machine learning, computer vision, and practical AI solutions.
+- 🏗️ **Current Focus:** Full-stack applications, business software, and mobile development.
+- 📚 **Mindset:** Continuous learning, maintainable code, debugging, and practical problem-solving.
+- ⚡ **Beyond Coding:** Exploring technology, PC hardware, and innovative software tools.
 
 ---
 
-## 💼 Experience
+## 🛠️ Technical Skills
 
-**Software Engineering Intern** | *[Company Name]* | *Early 2025*
-- Worked on [describe the main feature or module you built]
-- Used [technologies, e.g. React, Node.js, MongoDB] in a team environment
-- Collaborated using Git, code reviews, and agile practices
+<div align="center">
 
----
+### 🌐 Web & Full-Stack Development
 
-## 🎓 Education
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,mongodb,tailwind" alt="Web development skills"/>
 
-**Sri Lanka Institute of Information Technology (SLIIT)** | Colombo, Sri Lanka
-BSc in Information Technology | Expected graduation 2026
-Relevant coursework: Data Structures & Algorithms, Software Engineering, Databases, Web Technologies, Machine Learning
+### 📱 Mobile Application Development
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" alt="Mobile development skills"/>
+
+### 🤖 Programming & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,opencv,tensorflow" alt="Programming and machine learning skills"/>
+
+### ⚙️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,figma" alt="Development tools"/>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🏪 MAC Enterprises — Business Website & POS
 
-<a href="https://github.com/Ahamedshowkey/mac-enterprises-shop-console-full">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahamedshowkey&repo=mac-enterprises-shop-console-full&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/Ahamedshowkey/Ahamedshowkey.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahamedshowkey&repo=Ahamedshowkey.github.io&theme=radical&hide_border=true" />
-</a>
+A business software project focused on modernizing hardware-shop operations.
 
-</div>
+- 🧾 Point-of-sale billing and invoice management.
+- 📦 Product and inventory management.
+- 🏷️ Product identification using barcodes.
+- 👥 Customer records and credit tracking.
+- 📊 Sales history and business analytics.
 
-### 🛒 MAC Enterprises Shop Console
-A full-stack point-of-sale and management system for a hardware shop.
-- Handles sales, inventory, and day-to-day shop operations in one console
-- **Stack:** MERN (MongoDB, Express, React, Node.js)
-- 🔗 [View Repository](https://github.com/Ahamedshowkey/mac-enterprises-shop-console-full)
+**Technologies:** React, Vite, Node.js, Express.js, MongoDB
 
-### 🌍 Personal Portfolio
-My personal website, hosted on GitHub Pages.
-- 🔗 [View Repository](https://github.com/Ahamedshowkey/Ahamedshowkey.github.io)
+[![MAC Enterprises](https://github-readme-stats.vercel.app/api/pin/?username=Ahamedshowkey&repo=mac-enterprises-shop-console-full&theme=tokyonight&hide_border=true)](https://github.com/Ahamedshowkey/mac-enterprises-shop-console-full)
 
----
+### 🌐 Personal / Business Website
 
-## 🧰 Tech Stack
+Web development project demonstrating responsive design and modern frontend development.
 
-**Web (MERN)**
+[![Website Project](https://github-readme-stats.vercel.app/api/pin/?username=Ahamedshowkey&repo=Ahamedshowkey.github.io&theme=tokyonight&hide_border=true)](https://github.com/Ahamedshowkey/Ahamedshowkey.github.io)
 
-![Web](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,html,css,tailwind)
+### 🩺 Deep Retinal Insights — Final-Year Research
 
-**Mobile**
+A computer-vision and machine-learning research project focused on identifying retinal conditions, including diabetic retinopathy, glaucoma, and age-related macular degeneration.
 
-![Android](https://skillicons.dev/icons?i=kotlin,androidstudio,firebase)
+- 🧠 Explores machine-learning approaches for retinal image analysis.
+- 🔬 Investigates image processing and feature extraction.
+- 📈 Compares approaches including HOG-based features and LSTM-related modelling.
 
-**AI / ML & Languages**
+**Technologies:** Python, OpenCV, Scikit-learn, TensorFlow
 
-![Languages](https://skillicons.dev/icons?i=python,java,cpp)
+> Research project description; refer to the repository or research documentation for the implemented models and validated results.
 
-**Databases**
+### 💰 Personal Finance Application
 
-![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
+An Android application project focused on personal financial record management.
 
-**Tools & Platforms**
+**Technologies:** Kotlin, Firebase
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma,docker)
+### 🍽️ Online Food City
 
----
+A full-stack web application developed to explore online food ordering and web application workflows.
 
-## 📜 Certifications & Learning
-
-- 🏅 [Certification name] | [Issuer] | [Year]
-- 🏅 [Certification name] | [Issuer] | [Year]
-- 📚 Currently studying: Advanced React, Machine Learning, Cloud fundamentals
+**Technologies:** MongoDB, Express.js, React, Node.js
 
 ---
 
-## 🏆 GitHub Trophies
+## 💼 Professional Experience
 
-<div align="center">
+**Software Engineer Intern**  
+Gamage Recruiters (PVT) LTD | February 2025 – August 2025
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ahamedshowkey&theme=radical&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+- Contributed to software development tasks and application functionality.
+- Worked on debugging, testing, and improving application reliability.
+- Practised maintainable coding and collaborative software development.
+- Gained practical experience with software engineering workflows.
 
 ---
 
-## 📊 GitHub Stats & Metrics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahamedshowkey&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahamedshowkey&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahamedshowkey&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<br/><br/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahamedshowkey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=Ahamedshowkey&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
 
-<br/><br/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahamedshowkey&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <br/><br/>
+
+  <img src="./github-metrics.svg" width="100%" alt="Detailed GitHub metrics"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ahamedshowkey/Ahamedshowkey/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahamedshowkey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub trophies"/>
+
 </div>
 
 ---
 
-## 🤝 Let's Work Together
-
-I'm open to **internships, junior developer roles, freelance projects, and open-source collaboration**. If you have an idea for a web or Android app, or want a hand with an IT or software problem, get in touch.
+## 🐍 Contribution Activity
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ahamedshowkey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahamedshowkey)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sowkey2mail@gmail.com)
+  <img src="https://raw.githubusercontent.com/Ahamedshowkey/Ahamedshowkey/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
 
 </div>
 
+---
+
+## 🎯 Current Goals
+
+- 🚀 Build reliable, maintainable full-stack applications.
+- 🏪 Improve business software through practical features and better user experiences.
+- 📱 Strengthen Android application development skills.
+- 🤖 Explore machine learning and computer vision applications.
+- ☁️ Improve deployment, cloud infrastructure, and software delivery skills.
+- 🤝 Collaborate on meaningful open-source and software development projects.
+
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+  <a href="https://github.com/Ahamedshowkey">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:sowkey2mail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2f81f7&height=100&section=footer" width="100%" />
+  <br/><br/>
+
+  💬 Interested in software development, web technologies, Android applications, and AI/ML.
+
+  📫 **Email:** [sowkey2mail@gmail.com](mailto:sowkey2mail@gmail.com)
+
+  <br/>
+
+  **⭐ Thanks for visiting my profile! Feel free to explore my repositories and projects.**
 
 </div>
