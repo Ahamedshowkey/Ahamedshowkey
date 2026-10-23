@@ -23,12 +23,14 @@ jobs:
           user: ${{ github.repository_owner }}
           template: classic
           
+          # ⚠️ MAGIC SETTING: Stops one broken plugin from ruining the whole card
+          plugins_errors_fatal: no
+
           # ==========================================
-          # APPEARANCE & GENERAL SETTINGS
+          # APPEARANCE
           # ==========================================
           config_timezone: Asia/Colombo
           config_display: large
-          config_theme: github_dark
           config_output: svg
 
           # ==========================================
@@ -37,11 +39,10 @@ jobs:
           base: header, activity, community, repositories, metadata
           
           # ==========================================
-          # GITHUB PLUGINS
+          # GITHUB PLUGINS (No external keys needed)
           # ==========================================
           plugin_achievements: yes
           plugin_achievements_display: detailed
-          plugin_achievements_threshold: X
           
           plugin_activity: yes
           plugin_activity_limit: 5
@@ -58,7 +59,6 @@ jobs:
           
           plugin_contributors: yes
           plugin_contributors_sections: contributors
-          plugin_contributors_categories: false
           
           plugin_discussions: yes
           plugin_discussions_categories: yes
@@ -111,7 +111,6 @@ jobs:
           plugin_reactions_details: percentage
           
           plugin_repositories: yes
-          plugin_repositories_featured: lowlighter/metrics
           plugin_repositories_pinned: 2
           
           plugin_skyline: yes
@@ -144,91 +143,33 @@ jobs:
           plugin_traffic: yes
 
           # ==========================================
-          # SOCIAL PLUGINS (Require external setup!)
+          # SOCIAL PLUGINS (COMMENTED OUT)
           # ==========================================
-          # 🚨 ANILIST (Requires username)
-          plugin_anilist: yes
-          plugin_anilist_user: YOUR_ANILIST_USERNAME
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
+          # ⚠️ To use any of these, remove the '#' at the start of the line 
+          # and replace the YOUR_..._HERE text with your actual info.
 
-          # 🚨 LEETCODE (Requires username)
-          plugin_leetcode: yes
-          plugin_leetcode_user: YOUR_LEETCODE_USERNAME
-          plugin_leetcode_sections: solved, skills, recent
+          # plugin_anilist: yes
+          # plugin_anilist_user: YOUR_ANILIST_USERNAME
+          # plugin_anilist_medias: anime, manga
+          # plugin_anilist_sections: favorites, characters
 
-          # 🚨 MUSIC (Requires Spotify API setup)
+          # plugin_leetcode: yes
+          # plugin_leetcode_user: YOUR_LEETCODE_USERNAME
+          # plugin_leetcode_sections: solved, skills, recent
+
           # plugin_music: yes
           # plugin_music_provider: spotify
           # plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
           # plugin_music_mode: recent
 
-          # 🚨 PAGESPEED (Requires Google PageSpeed API Key)
           # plugin_pagespeed: yes
           # plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           # plugin_pagespeed_url: https://your-website.com
-          # plugin_pagespeed_detailed: yes
 
-          # 🚨 POSTS (Requires an RSS feed URL)
-          # plugin_posts: yes
-          # plugin_posts_source: YOUR_RSS_FEED_URL
-          # plugin_posts_limit: 4
-
-          # 🚨 RSS (Requires an RSS feed URL)
-          # plugin_rss: yes
-          # plugin_rss_source: YOUR_RSS_FEED_URL
-          # plugin_rss_limit: 4
-
-          # 🚨 STACKOVERFLOW (Requires StackExchange API Key)
           # plugin_stackoverflow: yes
           # plugin_stackoverflow_user: YOUR_STACKOVERFLOW_ID
-          # plugin_stackoverflow_token: ${{ secrets.STACKOVERFLOW_TOKEN }}
           # plugin_stackoverflow_sections: answers-top, questions-recent
-          # plugin_stackoverflow_limit: 2
 
-          # 🚨 STEAM (Requires Steam API Key and ID)
-          # plugin_steam: yes
-          # plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          # plugin_steam_user: YOUR_STEAM_ID
-          # plugin_steam_sections: player, most-played
-
-          # 🚨 WAKATIME (Requires WakaTime API Key)
           # plugin_wakatime: yes
           # plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          # plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          # plugin_wakatime_limit: 4
-
-          # ==========================================
-          # COMMUNITY PLUGINS
-          # ==========================================
-          plugin_16personalities: yes
-          plugin_16personalities_url: YOUR_16PERSONALITIES_URL
-          plugin_16personalities_sections: personality, profile, traits
-          plugin_16personalities_scores: yes
-
-          plugin_chess: yes
-          plugin_chess_platform: chess.com
-          plugin_chess_user: YOUR_CHESS_USERNAME
-
-          plugin_crypto: yes
-          plugin_crypto_wallet: YOUR_WALLET_ADDRESS
-
-          plugin_fortune: yes
-
-          plugin_nightscout: yes
-          plugin_nightscout_url: YOUR_NIGHTSCOUT_URL
-
-          plugin_poopmap: yes
-          plugin_poopmap_token: YOUR_POOPMAP_TOKEN
-
-          plugin_screenshot: yes
-          plugin_screenshot_url: YOUR_WEBSITE_URL
-
-          plugin_splatoon: yes
-          plugin_splatoon_token: ${{ secrets.SPLATOON_TOKEN }}
-
-          plugin_stock: yes
-          plugin_stock_token: ${{ secrets.STOCK_TOKEN }}
-          plugin_stock_symbol: AAPL
+          # plugin_wakatime_sections: time, projects, languages, editors, os
