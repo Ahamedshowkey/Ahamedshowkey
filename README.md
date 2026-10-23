@@ -18,7 +18,7 @@
 - 🔭 Building full-stack web apps and native Android apps
 - 🧠 Interested in AI/ML and applying it to real-world problems
 - 🛠️ I learn by building: coursework and hands-on projects side by side
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **sowkey2mail@gmail.com**
 
 ---
 
