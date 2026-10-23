@@ -6,6 +6,10 @@
 
 <br/>
 
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,kotlin,firebase,python,tensorflow,git&perline=9" alt="Core technologies"/>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=Ahamedshowkey&label=PROFILE%20VIEWS&color=2F81F7&style=for-the-badge" alt="Profile views"/>
 
 <a href="https://github.com/Ahamedshowkey?tab=repositories">
@@ -15,8 +19,8 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Location-Colombo%2C%20Sri%20Lanka-2F81F7?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Roles-2EA44F?style=flat-square" alt="Open to work"/>
-<img src="https://img.shields.io/github/followers/Ahamedshowkey?label=Followers&style=flat-square&color=2F81F7" alt="Followers"/>
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Roles-2EA44F?style=flat-square&logo=briefcase&logoColor=white" alt="Open to work"/>
+<img src="https://img.shields.io/github/followers/Ahamedshowkey?label=Followers&style=flat-square&color=2F81F7&logo=github" alt="Followers"/>
 
 <br/><br/>
 
@@ -46,33 +50,33 @@ I'm Ahamed Sowkey, a software developer from Sri Lanka interested in full-stack 
 
 ### Programming Languages
 
-| Language | Level | What I use it for |
-|----------|-------|-------------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Advanced | React front ends, Node.js and Express back ends, REST APIs, business logic |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Intermediate | Typed React components and safer API code |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | Intermediate | Native Android apps, Firebase integration, MVVM-style structure |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Intermediate | Machine learning, image processing, data experiments, scripting |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Intermediate | Object-oriented programming, data structures, coursework |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | Foundational | Algorithms, memory concepts, problem solving |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Intermediate | Relational schema design, joins, queries |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Advanced | Semantic markup, responsive layouts, Flexbox and Grid |
+| Icon | Language | Level | What I use it for |
+|:----:|----------|-------|-------------------|
+| <img src="https://skillicons.dev/icons?i=js" width="36" alt="JavaScript"/> | **JavaScript** | Advanced | React front ends, Node.js and Express back ends, REST APIs, business logic |
+| <img src="https://skillicons.dev/icons?i=ts" width="36" alt="TypeScript"/> | **TypeScript** | Intermediate | Typed React components and safer API code |
+| <img src="https://skillicons.dev/icons?i=kotlin" width="36" alt="Kotlin"/> | **Kotlin** | Intermediate | Native Android apps, Firebase integration, MVVM-style structure |
+| <img src="https://skillicons.dev/icons?i=python" width="36" alt="Python"/> | **Python** | Intermediate | Machine learning, image processing, data experiments, scripting |
+| <img src="https://skillicons.dev/icons?i=java" width="36" alt="Java"/> | **Java** | Intermediate | Object-oriented programming, data structures, coursework |
+| <img src="https://skillicons.dev/icons?i=cpp" width="36" alt="C++"/> | **C++** | Foundational | Algorithms, memory concepts, problem solving |
+| <img src="https://skillicons.dev/icons?i=mysql" width="36" alt="SQL"/> | **SQL** | Intermediate | Relational schema design, joins, queries |
+| <img src="https://skillicons.dev/icons?i=html,css" width="72" alt="HTML and CSS"/> | **HTML5 / CSS3** | Advanced | Semantic markup, responsive layouts, Flexbox and Grid |
 
 ### Frameworks & Libraries
 
-| Area | Technologies |
-|------|--------------|
-| **Frontend** | React, Vite, Tailwind CSS, React Router, Axios |
-| **Backend** | Node.js, Express.js, Mongoose, Multer (file uploads), JWT authentication |
-| **Mobile** | Android SDK, Jetpack components, Firebase Authentication and Firestore |
-| **AI / ML** | TensorFlow, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib |
+| Icon | Area | Technologies |
+|:----:|------|--------------|
+| <img src="https://skillicons.dev/icons?i=react,vite,tailwind" height="36" alt="Frontend"/> | **Frontend** | React, Vite, Tailwind CSS, React Router, Axios |
+| <img src="https://skillicons.dev/icons?i=nodejs,express" height="36" alt="Backend"/> | **Backend** | Node.js, Express.js, Mongoose, Multer (file uploads), JWT authentication |
+| <img src="https://skillicons.dev/icons?i=androidstudio,firebase" height="36" alt="Mobile"/> | **Mobile** | Android SDK, Jetpack components, Firebase Authentication and Firestore |
+| <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn" height="36" alt="AI and ML"/> | **AI / ML** | TensorFlow, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib |
 
 ### Databases & Data
 
-| Database | Experience |
-|----------|------------|
-| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | Document modelling, Mongoose schemas, aggregation for sales and stock reports |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Relational design and queries |
-| ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | Authentication, realtime data, and cloud storage for mobile apps |
+| Icon | Database | Experience |
+|:----:|----------|------------|
+| <img src="https://skillicons.dev/icons?i=mongodb" width="36" alt="MongoDB"/> | **MongoDB** | Document modelling, Mongoose schemas, aggregation for sales and stock reports |
+| <img src="https://skillicons.dev/icons?i=mysql" width="36" alt="MySQL"/> | **MySQL** | Relational design and queries |
+| <img src="https://skillicons.dev/icons?i=firebase" width="36" alt="Firebase"/> | **Firebase** | Authentication, realtime data, and cloud storage for mobile apps |
 
 ### Spoken Languages
 
@@ -85,19 +89,21 @@ I'm Ahamed Sowkey, a software developer from Sri Lanka interested in full-stack 
 
 ## 🛠️ Engineering Practices
 
-| Practice | How I apply it |
-|----------|----------------|
-| 🧩 **Clean architecture** | Separated routes, controllers, models, and services on the back end; reusable components on the front end |
-| 🔌 **API design** | RESTful endpoints, consistent responses, input validation, clear error handling |
-| 🐞 **Debugging** | Reading stack traces, isolating issues, and tracing problems across the front end, API, and database |
-| 🧪 **Testing** | Manual and API testing with Postman; building toward automated tests |
-| 🔀 **Version control** | Git and GitHub with focused commits and branch-based workflows |
-| 🔐 **Security basics** | Authentication, protected routes, environment variables for secrets |
-| 📝 **Documentation** | READMEs, setup notes, and readable code over clever code |
+| Icon | Practice | How I apply it |
+|:----:|----------|----------------|
+| 🧩 | **Clean architecture** | Separated routes, controllers, models, and services on the back end; reusable components on the front end |
+| 🔌 | **API design** | RESTful endpoints, consistent responses, input validation, clear error handling |
+| 🐞 | **Debugging** | Reading stack traces, isolating issues, and tracing problems across the front end, API, and database |
+| <img src="https://skillicons.dev/icons?i=postman" width="24" alt="Postman"/> | **Testing** | Manual and API testing with Postman; building toward automated tests |
+| <img src="https://skillicons.dev/icons?i=git" width="24" alt="Git"/> | **Version control** | Git and GitHub with focused commits and branch-based workflows |
+| 🔐 | **Security basics** | Authentication, protected routes, environment variables for secrets |
+| 📝 | **Documentation** | READMEs, setup notes, and readable code over clever code |
 
 ---
 
 ## 🎓 Education
+
+<img src="https://img.shields.io/badge/SLIIT-Faculty%20of%20Computing-0A66C2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="SLIIT"/>
 
 **Sri Lanka Institute of Information Technology (SLIIT)**
 
@@ -112,14 +118,16 @@ Faculty of Computing · Malabe Campus
 
 ## 💼 Experience
 
+<img src="https://img.shields.io/badge/Software%20Engineer-Intern-2F81F7?style=for-the-badge&logo=gitbook&logoColor=white" alt="Software Engineer Intern"/>
+
 ### Software Engineer Intern
 **Gamage Recruiters (PVT) LTD** · February 2025 – August 2025
 
-- Contributed to software development and application maintenance.
-- Worked on debugging and resolving application issues.
-- Supported software testing and quality improvement.
-- Practised writing readable, maintainable code.
-- Gained practical experience with software engineering workflows.
+- 🛠️ Contributed to software development and application maintenance.
+- 🐞 Worked on debugging and resolving application issues.
+- ✅ Supported software testing and quality improvement.
+- 📖 Practised writing readable, maintainable code.
+- 🔄 Gained practical experience with software engineering workflows.
 
 *Internship completed; experience letter received.*
 
@@ -128,6 +136,8 @@ Faculty of Computing · Malabe Campus
 ## 🚀 Featured Projects
 
 ### 🏪 MAC Enterprises — Business Management & POS
+
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb" alt="MAC Enterprises stack"/>
 
 **Repository:** Private
 
@@ -146,11 +156,13 @@ A point-of-sale and business management system designed to modernize billing and
 
 ### 🩺 Deep Retinal Insights
 
+<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,sklearn" alt="Deep Retinal Insights stack"/>
+
 A research project exploring image processing and machine-learning approaches to retinal image analysis.
 
-- Investigates diabetic retinopathy, glaucoma, and age-related macular degeneration.
-- Explores HOG-based feature extraction and LSTM-related modelling approaches.
-- Uses image-processing and machine-learning tools.
+- 👁️ Investigates diabetic retinopathy, glaucoma, and age-related macular degeneration.
+- 🧬 Explores HOG-based feature extraction and LSTM-related modelling approaches.
+- 🔬 Uses image-processing and machine-learning tools.
 
 **Stack:** Python · OpenCV · Scikit-learn · TensorFlow  
 **Focus:** Computer vision and feature extraction
@@ -159,6 +171,8 @@ A research project exploring image processing and machine-learning approaches to
 
 ### 💰 Personal Finance Android Application
 
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" alt="Personal Finance stack"/>
+
 An Android application project focused on personal financial record management.
 
 **Stack:** Kotlin · Android Studio · Firebase  
@@ -166,12 +180,16 @@ An Android application project focused on personal financial record management.
 
 ### 🍽️ Online Food City
 
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="Online Food City stack"/>
+
 A full-stack web application project exploring online food ordering and related workflows.
 
 **Stack:** MongoDB · Express.js · React · Node.js  
 **Focus:** End-to-end MERN development, from ordering flow to database
 
 ### 🎓 Veritas Campus LMS
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Veritas Campus LMS stack"/>
 
 A learning management system backend and dashboard integration project.
 
@@ -198,7 +216,7 @@ A learning management system backend and dashboard integration project.
 
 **Programming & AI**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,opencv" alt="Programming and AI technologies"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,opencv,sklearn" alt="Programming and AI technologies"/>
 
 **Tools**
 
@@ -210,15 +228,15 @@ A learning management system backend and dashboard integration project.
 
 ## 🗺️ Learning Roadmap
 
-| Focus | Goal | Status |
-|-------|------|--------|
-| ⚛️ Advanced React | Performance, state management, reusable component patterns | 🟡 In progress |
-| 🏗️ Backend architecture | Layered design, validation, scalable API structure | 🟡 In progress |
-| ☁️ Cloud deployment | Hosting full-stack apps, CI/CD, environment management | 🟡 In progress |
-| 🐳 Docker | Containerising apps for consistent deployment | 🔵 Planned |
-| 🧪 Automated testing | Unit and integration tests for APIs and components | 🔵 Planned |
-| 🤖 Applied ML | Model evaluation, computer vision, deployment of ML features | 🟡 In progress |
-| 📱 Advanced Android | Architecture components, offline support, Jetpack Compose | 🔵 Planned |
+| Icon | Focus | Goal | Status |
+|:----:|-------|------|--------|
+| <img src="https://skillicons.dev/icons?i=react" width="28" alt="React"/> | **Advanced React** | Performance, state management, reusable component patterns | 🟡 In progress |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="28" alt="Node.js"/> | **Backend architecture** | Layered design, validation, scalable API structure | 🟡 In progress |
+| ☁️ | **Cloud deployment** | Hosting full-stack apps, CI/CD, environment management | 🟡 In progress |
+| <img src="https://skillicons.dev/icons?i=docker" width="28" alt="Docker"/> | **Docker** | Containerising apps for consistent deployment | 🔵 Planned |
+| 🧪 | **Automated testing** | Unit and integration tests for APIs and components | 🔵 Planned |
+| <img src="https://skillicons.dev/icons?i=tensorflow" width="28" alt="TensorFlow"/> | **Applied ML** | Model evaluation, computer vision, deployment of ML features | 🟡 In progress |
+| <img src="https://skillicons.dev/icons?i=androidstudio" width="28" alt="Android"/> | **Advanced Android** | Architecture components, offline support, Jetpack Compose | 🔵 Planned |
 
 ---
 
@@ -260,12 +278,12 @@ A learning management system backend and dashboard integration project.
 
 ## 🎯 Current Goals
 
-- Build reliable, maintainable full-stack applications.
-- Improve backend architecture and API design.
-- Develop practical business management software.
-- Strengthen Android development skills.
-- Explore applied machine learning and computer vision.
-- Contribute to collaborative software projects.
+- 🏗️ Build reliable, maintainable full-stack applications.
+- 🔌 Improve backend architecture and API design.
+- 🏪 Develop practical business management software.
+- 📱 Strengthen Android development skills.
+- 🤖 Explore applied machine learning and computer vision.
+- 🤝 Contribute to collaborative software projects.
 
 ---
 
@@ -275,9 +293,9 @@ A learning management system backend and dashboard integration project.
 
 | 💼 Opportunities | 🤲 Collaboration |
 |------------------|------------------|
-| Internships and junior developer roles | Open-source contributions |
-| Freelance web and Android projects | Full-stack and mobile app ideas |
-| Business software and POS solutions | AI/ML and computer vision projects |
+| 🎓 Internships and junior developer roles | 🌍 Open-source contributions |
+| 💻 Freelance web and Android projects | 📱 Full-stack and mobile app ideas |
+| 🏪 Business software and POS solutions | 🤖 AI/ML and computer vision projects |
 
 </div>
 
