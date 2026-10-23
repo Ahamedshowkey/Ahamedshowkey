@@ -6,6 +6,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahamedshowkey&label=Profile+Views&color=2f81f7&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/Ahamedshowkey?label=Followers&style=flat-square&color=2f81f7)
+![Repos](https://img.shields.io/github/search/Ahamedshowkey/Ahamedshowkey?style=flat-square&color=2f81f7&label=Status&query=)
+![Location](https://img.shields.io/badge/Location-Colombo%2C%20Sri%20Lanka-2f81f7?style=flat-square&logo=googlemaps&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to-Work%20%26%20Collaboration-2ea44f?style=flat-square)
+
+<br/>
+
+[Portfolio](https://ahamedshowkey.github.io) • [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) • [Email](mailto:sowkey2mail@gmail.com)
 
 </div>
 
@@ -13,14 +20,45 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 IT graduate at **SLIIT** (Sri Lanka Institute of Information Technology), graduating 2026
+I'm an Information Technology undergraduate at **SLIIT** who builds complete products, from the database and API to the web and mobile front ends. I enjoy turning real business problems into reliable, clean software, and I'm growing toward AI/ML and cloud-based systems.
+
+- 🎓 IT student at **SLIIT** (Sri Lanka Institute of Information Technology), graduating 2026
 - 💼 Software engineering internship completed in early 2025
 - 🔭 **Currently working on:** A full-stack MERN application and an Android app
 - 🌱 **Currently learning:** Advanced React patterns and Machine Learning models
 - 🧠 **Interests:** AI/ML, Cloud Computing, and Mobile App Development
-- 🛠️ **Philosophy:** I learn by building—coursework and hands-on projects side by side
+- 🛠️ **Philosophy:** I learn by building. Coursework and hands-on projects go side by side
 - ⚡ **Fun fact:** When I'm not coding, you can find me exploring new tech gadgets
 - 📫 **Reach me:** **sowkey2mail@gmail.com**
+
+---
+
+## 💡 What I Do
+
+| Area | What I build |
+|------|--------------|
+| 🌐 **Full-Stack Web** | REST APIs, authentication, dashboards, and responsive React front ends on the MERN stack |
+| 📱 **Android Development** | Native Kotlin apps with clean architecture and Firebase integration |
+| 🤖 **AI / ML** | Model experiments and data-driven features in Python |
+| 🗄️ **Databases** | Schema design and querying in MongoDB and SQL |
+| 🔧 **IT & Systems** | Troubleshooting, Linux environments, version control workflows, and deployment basics |
+
+---
+
+## 💼 Experience
+
+**Software Engineering Intern** | *[Company Name]* | *Early 2025*
+- Worked on [describe the main feature or module you built]
+- Used [technologies, e.g. React, Node.js, MongoDB] in a team environment
+- Collaborated using Git, code reviews, and agile practices
+
+---
+
+## 🎓 Education
+
+**Sri Lanka Institute of Information Technology (SLIIT)** | Colombo, Sri Lanka
+BSc in Information Technology | Expected graduation 2026
+Relevant coursework: Data Structures & Algorithms, Software Engineering, Databases, Web Technologies, Machine Learning
 
 ---
 
@@ -37,13 +75,23 @@
 
 </div>
 
+### 🛒 MAC Enterprises Shop Console
+A full-stack point-of-sale and management system for a hardware shop.
+- Handles sales, inventory, and day-to-day shop operations in one console
+- **Stack:** MERN (MongoDB, Express, React, Node.js)
+- 🔗 [View Repository](https://github.com/Ahamedshowkey/mac-enterprises-shop-console-full)
+
+### 🌍 Personal Portfolio
+My personal website, hosted on GitHub Pages.
+- 🔗 [View Repository](https://github.com/Ahamedshowkey/Ahamedshowkey.github.io)
+
 ---
 
 ## 🧰 Tech Stack
 
 **Web (MERN)**
 
-![MongoDB](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,html,css,tailwind)
+![Web](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,html,css,tailwind)
 
 **Mobile**
 
@@ -51,11 +99,23 @@
 
 **AI / ML & Languages**
 
-![Python](https://skillicons.dev/icons?i=python,java,cpp)
+![Languages](https://skillicons.dev/icons?i=python,java,cpp)
+
+**Databases**
+
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
 
 **Tools & Platforms**
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma,docker)
+
+---
+
+## 📜 Certifications & Learning
+
+- 🏅 [Certification name] | [Issuer] | [Year]
+- 🏅 [Certification name] | [Issuer] | [Year]
+- 📚 Currently studying: Advanced React, Machine Learning, Cloud fundamentals
 
 ---
 
@@ -73,7 +133,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahamedshowkey&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ahamedshowkey&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahamedshowkey&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Ahamedshowkey&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -91,7 +156,9 @@
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Work Together
+
+I'm open to **internships, junior developer roles, freelance projects, and open-source collaboration**. If you have an idea for a web or Android app, or want a hand with an IT or software problem, get in touch.
 
 <div align="center">
 
@@ -104,5 +171,7 @@
 <div align="center">
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2f81f7&height=100&section=footer" width="100%" />
 
 </div>
