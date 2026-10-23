@@ -1,4 +1,3 @@
-
 # Ahamed Sowkey | Software Engineer & Full-Stack Developer
 
 <div align="center">
@@ -13,6 +12,12 @@
   <img src="https://img.shields.io/badge/Explore-My%20Repositories-0A66C2?style=for-the-badge&logo=github" alt="Repositories"/>
 </a>
 
+<br/>
+
+<img src="https://img.shields.io/badge/Location-Colombo%2C%20Sri%20Lanka-2F81F7?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Roles-2EA44F?style=flat-square" alt="Open to work"/>
+<img src="https://img.shields.io/github/followers/Ahamedshowkey?label=Followers&style=flat-square&color=2F81F7" alt="Followers"/>
+
 <br/><br/>
 
 **Engineering useful software. Solving real problems. Learning continuously.**
@@ -26,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Ahamed Sowkey, a software developer from Sri Lanka interested in full-stack development, mobile applications, business software, and applied machine learning.
+I'm Ahamed Sowkey, a software developer from Sri Lanka interested in full-stack development, mobile applications, business software, and applied machine learning. I like building complete products: the database, the API, and the interface people actually use.
 
 - 💻 **Full-stack:** MongoDB, Express.js, React, Node.js
 - 📱 **Mobile:** Kotlin, Android Studio, Firebase
@@ -34,6 +39,63 @@ I'm Ahamed Sowkey, a software developer from Sri Lanka interested in full-stack 
 - 🏗️ **Interests:** POS systems, inventory management, REST APIs, and data-driven applications
 - 🧪 **Practices:** Debugging, testing, maintainable code, and software delivery
 - 🌱 **Currently improving:** Backend architecture, cloud deployment, and modern web development
+
+---
+
+## 🧑‍💻 Languages & Technologies in Detail
+
+### Programming Languages
+
+| Language | Level | What I use it for |
+|----------|-------|-------------------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Advanced | React front ends, Node.js and Express back ends, REST APIs, business logic |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Intermediate | Typed React components and safer API code |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | Intermediate | Native Android apps, Firebase integration, MVVM-style structure |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Intermediate | Machine learning, image processing, data experiments, scripting |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Intermediate | Object-oriented programming, data structures, coursework |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | Foundational | Algorithms, memory concepts, problem solving |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Intermediate | Relational schema design, joins, queries |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Advanced | Semantic markup, responsive layouts, Flexbox and Grid |
+
+### Frameworks & Libraries
+
+| Area | Technologies |
+|------|--------------|
+| **Frontend** | React, Vite, Tailwind CSS, React Router, Axios |
+| **Backend** | Node.js, Express.js, Mongoose, Multer (file uploads), JWT authentication |
+| **Mobile** | Android SDK, Jetpack components, Firebase Authentication and Firestore |
+| **AI / ML** | TensorFlow, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib |
+
+### Databases & Data
+
+| Database | Experience |
+|----------|------------|
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | Document modelling, Mongoose schemas, aggregation for sales and stock reports |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Relational design and queries |
+| ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | Authentication, realtime data, and cloud storage for mobile apps |
+
+### Spoken Languages
+
+- 🗣️ English: *[add your level]*
+- 🗣️ Sinhala / Tamil: *[add your level]*
+
+*Levels reflect how often I use each language, so edit them to match your own assessment.*
+
+---
+
+## 🛠️ Engineering Practices
+
+| Practice | How I apply it |
+|----------|----------------|
+| 🧩 **Clean architecture** | Separated routes, controllers, models, and services on the back end; reusable components on the front end |
+| 🔌 **API design** | RESTful endpoints, consistent responses, input validation, clear error handling |
+| 🐞 **Debugging** | Reading stack traces, isolating issues, and tracing problems across the front end, API, and database |
+| 🧪 **Testing** | Manual and API testing with Postman; building toward automated tests |
+| 🔀 **Version control** | Git and GitHub with focused commits and branch-based workflows |
+| 🔐 **Security basics** | Authentication, protected routes, environment variables for secrets |
+| 📝 **Documentation** | READMEs, setup notes, and readable code over clever code |
+
+---
 
 ## 🎓 Education
 
@@ -43,6 +105,10 @@ BSc (Hons) in Information Technology
 Faculty of Computing · Malabe Campus
 
 *Academic studies completed; final degree requirements remain pending.*
+
+**Core areas:** Data Structures & Algorithms · Object-Oriented Programming · Databases · Software Engineering · Web Technologies · Machine Learning
+
+---
 
 ## 💼 Experience
 
@@ -56,6 +122,8 @@ Faculty of Computing · Malabe Campus
 - Gained practical experience with software engineering workflows.
 
 *Internship completed; experience letter received.*
+
+---
 
 ## 🚀 Featured Projects
 
@@ -73,7 +141,8 @@ A point-of-sale and business management system designed to modernize billing and
 - 📊 Sales history and analytics
 - 🌐 Responsive interface
 
-**Stack:** React · Vite · Node.js · Express.js · MongoDB · Mongoose
+**Stack:** React · Vite · Node.js · Express.js · MongoDB · Mongoose  
+**Focus:** Real-world business workflows, data accuracy, and fast day-to-day shop operations
 
 ### 🩺 Deep Retinal Insights
 
@@ -83,7 +152,8 @@ A research project exploring image processing and machine-learning approaches to
 - Explores HOG-based feature extraction and LSTM-related modelling approaches.
 - Uses image-processing and machine-learning tools.
 
-**Stack:** Python · OpenCV · Scikit-learn · TensorFlow
+**Stack:** Python · OpenCV · Scikit-learn · TensorFlow  
+**Focus:** Computer vision and feature extraction
 
 *Research project; not presented as a clinically validated diagnostic system.*
 
@@ -91,19 +161,24 @@ A research project exploring image processing and machine-learning approaches to
 
 An Android application project focused on personal financial record management.
 
-**Stack:** Kotlin · Android Studio · Firebase
+**Stack:** Kotlin · Android Studio · Firebase  
+**Focus:** Native Android development and cloud-backed data
 
 ### 🍽️ Online Food City
 
 A full-stack web application project exploring online food ordering and related workflows.
 
-**Stack:** MongoDB · Express.js · React · Node.js
+**Stack:** MongoDB · Express.js · React · Node.js  
+**Focus:** End-to-end MERN development, from ordering flow to database
 
 ### 🎓 Veritas Campus LMS
 
 A learning management system backend and dashboard integration project.
 
-**Stack:** Node.js · Express.js · MongoDB · Mongoose · Multer
+**Stack:** Node.js · Express.js · MongoDB · Mongoose · Multer  
+**Focus:** Backend APIs, file uploads, and dashboard integration
+
+---
 
 ## 🧰 Tech Stack
 
@@ -133,17 +208,31 @@ A learning management system backend and dashboard integration project.
 
 ---
 
+## 🗺️ Learning Roadmap
+
+| Focus | Goal | Status |
+|-------|------|--------|
+| ⚛️ Advanced React | Performance, state management, reusable component patterns | 🟡 In progress |
+| 🏗️ Backend architecture | Layered design, validation, scalable API structure | 🟡 In progress |
+| ☁️ Cloud deployment | Hosting full-stack apps, CI/CD, environment management | 🟡 In progress |
+| 🐳 Docker | Containerising apps for consistent deployment | 🔵 Planned |
+| 🧪 Automated testing | Unit and integration tests for APIs and components | 🔵 Planned |
+| 🤖 Applied ML | Model evaluation, computer vision, deployment of ML features | 🟡 In progress |
+| 📱 Advanced Android | Architecture components, offline support, Jetpack Compose | 🔵 Planned |
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahamedshowkey&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahamedshowkey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahamedshowkey&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" alt="Most-used languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahamedshowkey&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com/?user=Ahamedshowkey&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
 </div>
 
@@ -180,6 +269,20 @@ A learning management system backend and dashboard integration project.
 
 ---
 
+## 🤝 Open To
+
+<div align="center">
+
+| 💼 Opportunities | 🤲 Collaboration |
+|------------------|------------------|
+| Internships and junior developer roles | Open-source contributions |
+| Freelance web and Android projects | Full-stack and mobile app ideas |
+| Business software and POS solutions | AI/ML and computer vision projects |
+
+</div>
+
+---
+
 ## 📬 Connect With Me
 
 <div align="center">
@@ -197,5 +300,9 @@ A learning management system backend and dashboard integration project.
 **Thank you for visiting my profile!**
 
 ⭐ *Keep learning. Keep building. Keep improving.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
