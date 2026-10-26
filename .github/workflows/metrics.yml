@@ -1,4 +1,3 @@
-
 name: GitHub Metrics
 
 on:
@@ -66,7 +65,7 @@ jobs:
 
           plugin_lines: yes
           plugin_lines_history_limit: 1
-          plugin_lines_sections: base, repositories
+          plugin_lines_sections: base,repositories
 
           plugin_notable: yes
           plugin_notable_from: all
